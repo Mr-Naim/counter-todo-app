@@ -11,7 +11,7 @@ const Counter = () => {
 
     return ( 
         <div className="card">
-            <div className="card-header bg-secondary">
+            <div className="card-header py-3 bg-secondary">
                 <h4 className="text-white">
                     My Counter App
                 </h4>

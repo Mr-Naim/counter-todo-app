@@ -8,8 +8,8 @@ const TodoPage = () => {
             <div className="row">
                 <div className="col-12">
                    <div className="card">
-                    <div className="card-header">
-                        <h5>My Todo App</h5>
+                    <div className="card-header py-3 bg-dark">
+                        <h5 className="text-white">My Todo App</h5>
 
                     </div>
                     <div className="card-body">
